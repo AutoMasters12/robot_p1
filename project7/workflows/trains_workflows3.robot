@@ -11,17 +11,6 @@ Test Template    search trains test
 search trains test on chrome    ${url}    ${browser_chrome}
 search trains test on ff    ${url}    ${browser_ff}
 
-
-    
-    
-
-    
-        
-    
-     
-       
-            
-         
     
     
     

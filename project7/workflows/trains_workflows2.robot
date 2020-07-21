@@ -14,15 +14,5 @@ search trains test on ff    ${url}    ${browser_ff}
 
     
     
-
-    
-        
-    
-     
-       
-            
-         
-    
-    
     
     
